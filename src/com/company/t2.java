@@ -16,6 +16,7 @@ class Example {
         ex.change(ex.str, ex.ch);
         System.out.print(ex.str + " and ");
         System.out.print(ex.ch);
+        System.out.println("测试git");
     }
 
 }
