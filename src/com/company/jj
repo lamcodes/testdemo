@@ -1,2 +1,1 @@
-观察一下rebase是不是完全拉取远程的，也会发生冲突啊。
-试试看pull和fetch的区别
+fetch不会自动merage
