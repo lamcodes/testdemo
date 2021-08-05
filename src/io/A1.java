@@ -12,6 +12,7 @@ public class A1 {
         String filePath = "D://a.txt" ;
         String reslut = a1.readFile( filePath ) ;
         System.out.println( reslut );
+
     }
 
 
