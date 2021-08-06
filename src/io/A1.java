@@ -10,6 +10,7 @@ public class A1 {
 
         //电脑d盘中的abc.txt 文档
         String filePath = "D://a.txt" ;
+        //从文件里读给reslut
         String reslut = a1.readFile( filePath ) ;
         System.out.println( reslut );
 
